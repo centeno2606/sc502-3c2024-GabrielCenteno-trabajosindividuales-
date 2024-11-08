@@ -1,0 +1,9 @@
+Estado de Cuenta:
+-----------------
+Descripción: Compra en supermercado - Monto: ₡25,000.00
+Descripción: Pago de servicios públicos - Monto: ₡15,000.00
+Descripción: Compra en tienda de ropa - Monto: ₡30,000.00
+Monto Total de Contado: ₡70,000.00
+Monto con Interés (2.6%): ₡71,820.00
+Cash Back (0.1%): ₡70.00
+Monto Final a Pagar: ₡71,750.00
